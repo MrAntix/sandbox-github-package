@@ -33,8 +33,7 @@
     "test.watch": "stencil test --e2e --spec --watch --screenshot",
     "barrels": "barrelsby -q --delete --directory src --include \\.ts$ --exclude \"\\.(d|e2e|spec)\\.ts$\" --location all",
     "format": "lint-staged",
-    "update": " npm update && npm audit fix && npm outdated",
-    "prepublishOnly": "npm run build.docs"
+    "update": " npm update && npm audit fix && npm outdated"
   },
   "author": {
     "name": "Anthony Johnston",
@@ -53,7 +52,7 @@
     "barrelsby": "^2.4.0",
     "jest": "^27.0.3",
     "jest-cli": "^27.4.5",
-    "puppeteer": "^10.0.0",
+    "puppeteer": "^16.1.0",
     "rimraf": "^3.0.2",
     "rollup-plugin-node-polyfills": "^0.2.1",
     "semantic-release": "^19.0.2",
