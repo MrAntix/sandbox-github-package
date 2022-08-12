@@ -47,7 +47,6 @@
     "@commitlint/config-conventional": "^17.0.0",
     "@rollup/plugin-typescript": "^8.3.2",
     "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/github": "^8.0.5",
     "@stencil/core": "^2.17.3",
     "@stencil/sass": "^1.5.2",
     "@types/jest": "^27.5.1",
@@ -67,5 +66,8 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "dependencies": {
+    "@semantic-release/git": "^10.0.1"
   }
 }
