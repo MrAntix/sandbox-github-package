@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/MrAntix/sandbox-github-package/compare/v1.0.2...v1.0.3) (2022-08-12)
+
+
+### Bug Fixes
+
+* **release:** commit docs ([a0b8b5f](https://github.com/MrAntix/sandbox-github-package/commit/a0b8b5f129c29223eb671d32ed634c57e5dc5cab))
+
 ## [1.0.2](https://github.com/MrAntix/sandbox-github-package/compare/v1.0.1...v1.0.2) (2022-08-12)
 
 
