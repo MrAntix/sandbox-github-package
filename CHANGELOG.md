@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/MrAntix/sandbox-github-package/compare/v1.0.4...v1.1.0) (2022-10-06)
+
+
+### Features
+
+* **greet:** add name parameter ([69b6faa](https://github.com/MrAntix/sandbox-github-package/commit/69b6faa19ffebae576f5325d3d1f03af52d7f6d7))
+
 ## [1.0.4](https://github.com/MrAntix/sandbox-github-package/compare/v1.0.3...v1.0.4) (2022-08-12)
 
 
