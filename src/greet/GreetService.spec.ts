@@ -8,7 +8,7 @@ describe('greeter', () => {
 
         const result = greeter.hello();
 
-        expect(result).toBe(GreetService.MESSAGE);
+        expect(result).toBe('hello there, how are you doing?');
 
     });
 

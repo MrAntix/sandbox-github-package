@@ -21,6 +21,11 @@ export const config: Config = {
     },
     {
       type: 'docs-readme',
+      footer: '@MrAntix'
+    },
+    {
+      type: 'docs-vscode',
+      file: 'vscode-data.json',
     },
     {
       type: 'docs-json',
@@ -28,8 +33,7 @@ export const config: Config = {
     },
     {
       type: 'www',
-      serviceWorker: null,
-      empty: true
+      serviceWorker: null
     }
   ],
   plugins: [
@@ -40,7 +44,7 @@ export const config: Config = {
   rollupPlugins: {
     after: [
       nodePolyfills(),
-    ]    
+    ]
   },
   globalStyle: 'src/global/style.scss',
   globalScript: 'src/global/default.js'

@@ -7,6 +7,10 @@
 import { HTMLStencilElement, JSXBase } from "@stencil/core/internal";
 export namespace Components {
     interface SgpGreet {
+        /**
+          * Name to greet
+         */
+        "name": string;
     }
 }
 declare global {
@@ -22,6 +26,10 @@ declare global {
 }
 declare namespace LocalJSX {
     interface SgpGreet {
+        /**
+          * Name to greet
+         */
+        "name"?: string;
     }
     interface IntrinsicElements {
         "sgp-greet": SgpGreet;

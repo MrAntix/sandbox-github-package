@@ -1,0 +1,18 @@
+{
+  "version": 1.1,
+  "tags": [
+    {
+      "name": "sgp-greet",
+      "description": {
+        "kind": "markdown",
+        "value": "Greet Component, renders a greet message to a name"
+      },
+      "attributes": [
+        {
+          "name": "name",
+          "description": "Name to greet"
+        }
+      ]
+    }
+  ]
+}
