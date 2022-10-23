@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/MrAntix/sandbox-github-package/compare/v1.1.2...v1.1.3) (2022-10-23)
+
+
+### Bug Fixes
+
+* **docs:** and bump ([2aace86](https://github.com/MrAntix/sandbox-github-package/commit/2aace86dcdab0ed759ef625ff4bf5670150bffdc))
+* **publish:** set GITHUB_TOKEN ([1cd9c98](https://github.com/MrAntix/sandbox-github-package/commit/1cd9c98793d08507b51fe4a8ae21cc57be65c634))
+
 ## [1.1.2](https://github.com/MrAntix/sandbox-github-package/compare/v1.1.1...v1.1.2) (2022-10-23)
 
 
