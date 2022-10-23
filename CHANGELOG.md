@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/MrAntix/sandbox-github-package/compare/v1.1.5...v1.1.6) (2022-10-23)
+
+
+### Bug Fixes
+
+* **publish:** bump ([46d6741](https://github.com/MrAntix/sandbox-github-package/commit/46d674116cc279ebb9288c468021536d1e764e3a))
+
 ## [1.1.5](https://github.com/MrAntix/sandbox-github-package/compare/v1.1.4...v1.1.5) (2022-10-23)
 
 
