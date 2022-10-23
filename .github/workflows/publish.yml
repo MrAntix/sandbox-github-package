@@ -1,5 +1,3 @@
-# Packages and publishes the lib using semantic-release to the github packages repo
-
 name: Publish
 
 on: workflow_dispatch 
