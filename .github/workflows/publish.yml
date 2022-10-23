@@ -22,4 +22,4 @@ jobs:
       - run: npm run build.docs
       - run: npx semantic-release
         env:
-          GH_TOKEN: ${{secrets.PACKAGES_TOKEN}}
+          GITHUB_TOKEN: ${{secrets.PACKAGES_TOKEN}}
