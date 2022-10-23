@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/MrAntix/sandbox-github-package/compare/v1.1.0...v1.1.1) (2022-10-23)
+
+
+### Bug Fixes
+
+* **publish:** protected branch ([eb3cd1f](https://github.com/MrAntix/sandbox-github-package/commit/eb3cd1f01c5d858db0e1c1b3260c80b6c64ab7b3))
+
 # [1.1.0](https://github.com/MrAntix/sandbox-github-package/compare/v1.0.4...v1.1.0) (2022-10-06)
 
 
