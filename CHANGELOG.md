@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/MrAntix/sandbox-github-package/compare/v1.1.1...v1.1.2) (2022-10-23)
+
+
+### Bug Fixes
+
+* **build:** GHT permissions not needed ([356f801](https://github.com/MrAntix/sandbox-github-package/commit/356f80119fa56c5f8e76abbb2fe156b8d3dde00f))
+
 ## [1.1.1](https://github.com/MrAntix/sandbox-github-package/compare/v1.1.0...v1.1.1) (2022-10-23)
 
 
