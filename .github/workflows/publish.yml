@@ -14,10 +14,8 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
+          token: ${{ secrets.PACKAGES_TOKEN }}
       - run: npm ci
       - run: npm test
       - run: npm run build.docs
       - run: npx semantic-release
-        env:          
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.PACKAGES_TOKEN }}
