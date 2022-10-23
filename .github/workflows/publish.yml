@@ -10,11 +10,12 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PACKAGES_TOKEN }}
       - uses: actions/setup-node@v3
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
-          token: ${{ secrets.PACKAGES_TOKEN }}
       - run: npm ci
       - run: npm test
       - run: npm run build.docs
