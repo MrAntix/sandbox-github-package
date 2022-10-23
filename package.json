@@ -1,7 +1,7 @@
 {
   "name": "@mrantix/sandbox-github-package",
   "description": "testing github packages",
-  "version": "1.1.0",
+  "version": "0.0.0-development",
   "repository": {
     "url": "git+https://github.com/MrAntix/sandbox-github-package.git"
   },
